@@ -11,12 +11,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5954&center=true&vCenter=true&width=435&lines=Front-end+web+developer;Live+%3D%3D%3D+Programming;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
-
+- 💬 Ask me about my experience with JavaScript and SASS, or anything related to web development.
 
 ### Connect with Me :
 
