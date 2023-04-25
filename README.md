@@ -7,7 +7,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5954&center=true&vCenter=true&width=435&lines=Front-end+web+developer;Live+%3D%3D%3D+Programming;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5954&center=true&vCenter=true&width=435&lines=Front-end+web+developer;Live+%3D%3D%3D+Programming;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
