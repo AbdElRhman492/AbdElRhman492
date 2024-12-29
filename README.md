@@ -22,7 +22,6 @@ I enjoy creating intuitive and dynamic web applications. Currently, I am focused
 - **Features**: Course sales, teacher dashboards, student management.
 
 ## 🛠️ Technologies & Tools
-
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat&logo=php) 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql) 
 ![Laravel](https://img.shields.io/badge/Laravel-11.x-E74430?style=flat&logo=laravel) 
@@ -39,8 +38,12 @@ I enjoy creating intuitive and dynamic web applications. Currently, I am focused
 - **Email**: [bodynasr492@gmail.com](mailto:bodynasr492@gmail.com)
 - **LinkedIn**: [Abd Ul Rhman Nasr](https://www.linkedin.com/in/abd-ul-rhman-nasr-3b9304232)
 
+
+## ⚡ WakaTime Stats
+[![wakatime](https://img.shields.io/badge/wakatime-Profile-black?style=flat&logo=wakatime)](https://wakatime.com/@abdelrhman)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdElRhman492&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElRhman492&layout=compact&theme=radical)
