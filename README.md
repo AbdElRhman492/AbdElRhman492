@@ -44,6 +44,3 @@ I enjoy creating intuitive and dynamic web applications. Currently, I am focused
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdElRhman492&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElRhman492&layout=compact&theme=radical)
-
-## 🎉 Fun Fact
-I have a keen interest in photography and enjoy capturing nature and landscapes in my free time!
