@@ -40,8 +40,7 @@ I enjoy creating intuitive and dynamic web applications. Currently, I am focused
 
 
 ## ⚡ WakaTime Stats
-[![wakatime](https://img.shields.io/badge/wakatime-Profile-black?style=flat&logo=wakatime)](https://wakatime.com/@abdelrhman)
-
+[![wakatime](https://wakatime.com/badge/user/22a3dcfa-9b04-42e5-84d5-701b0af64783.svg)](https://wakatime.com/@22a3dcfa-9b04-42e5-84d5-701b0af64783) <br>
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats
